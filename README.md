@@ -20,7 +20,7 @@
 
 ###
 
-<p align="center">Please follow my project journey from noob to l33t</p>
+<p align="center">Please follow my project journey of labbing, experimenting, breaking and fixing issues that I create</p>
 
 ###
 
